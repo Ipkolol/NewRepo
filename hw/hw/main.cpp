@@ -7,4 +7,3 @@ void main() {
 	std::cout << "nove brench cosi" << std::endl;
 	std::cout << "sasdfdfgjikdhfgsanfhdvsjgk,ahfbjfdsak.hbhjk" << std::endl;
 }
-}
